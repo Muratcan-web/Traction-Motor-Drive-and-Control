@@ -1,3 +1,3 @@
 # Traction-Motor-Drive-and-Control
-In this project, I am working on the Control and Power Boards for a Traction Motor Drive system. All the explanations and required documents (Project Reports, Altium Files, BOM) will be updated as I progress. 
-I suggest you to read the  explanatory PDF File before going into the Altium Files.
+In this project, I am working on the Control and Power Boards for a Traction Motor Drive system. For this stage, the schematics and PCB design of the required circuits are completed. I uploaded the required Altium documents to this repository. You can see the schematics from the PDF documents, and have a look at the PCB design throught the Pcb.doc. I recommend you to read "Tration Motor Drive Design and Control.pdf" before going into the designs. You can see the circuit explanations and working principles of the circuits in that document. 
+If you have any questions, please do no hesitate asking: muratcann.yazici@gmail.com
