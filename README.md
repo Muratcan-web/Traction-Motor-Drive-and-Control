@@ -1,4 +1,6 @@
 # Traction-Motor-Drive-and-Control
-In this project, I am working on the Control and Power Boards for a Traction Motor Drive system. For this stage, the schematics and PCB design of the required circuits are completed. I uploaded the required Altium documents to this repository. You can see the schematics from the PDF documents, and have a look at the PCB design throughout the Pcb.doc. I recommend you to read "Traction Motor Drive Design and Control.pdf" before going into the designs. You can see the circuit explanations and working principles of the circuits in that document. Also, I recently uploaded the picture of the PCB (pcb.jpeg). 
+In this project, I worked on the Control and Power Boards of a Traction Motor Drive system. The drive system is capable of controlling upto 36kW AC Induction Motors. 
+
+You can find the required circuits and layout of the system in this repository. The detailed explanations of the firmware can be found in "TMD Final Report.pdf" document. 
 
 If you have any questions and suggestions, please do no hesitate asking: muratcann.yazici@gmail.com
